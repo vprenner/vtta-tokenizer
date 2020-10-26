@@ -22,6 +22,6 @@
   "styles": ["./css/module-settings.css", "./css/default.css", "./src/tokenizer/tokenizer.css"],
   "packs": [],
   "url": "https://www.vttassets.com/asset/vtta-tokenizer",
-  "manifest": "https://www.vttassets.com/manifest/vtta-tokenizer/stable",
-  "download": ""
+  "manifest": "https://raw.githubusercontent.com/vprenner/vtta-tokenizer/master/module.json",
+  "download": "https://raw.githubusercontent.com/vprenner/vtta-tokenizer/master"
 }
